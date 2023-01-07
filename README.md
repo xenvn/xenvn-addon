@@ -1,6 +1,3 @@
-
-![logo_900x900](https://user-images.githubusercontent.com/112816533/188320844-11aaf310-48cb-4a26-a45b-9edd9affe963.png)
-
 **XenVn - All In One Tools for Xenforo 2**
 
 **XenVn** is a All-In-One tools for Xenforo 2 with optimized code, multi-function and easy to use...
