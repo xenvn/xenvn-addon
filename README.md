@@ -9,6 +9,5 @@ Compatible with XenForo version 2.2+ and PHP version 7+, 8+.
 
 https://xenvn.com/threads/xenvn-all-in-one-tools-for-xenforo-2.516/
 
-![XenVn-Add-on-Box](https://user-images.githubusercontent.com/112816533/188320965-012c964d-1431-4b30-9ba7-e0b648ffd165.jpg)
-
-![XenVn-Add-on-for-Xenforo-2](https://user-images.githubusercontent.com/112816533/188320970-190f7480-9794-4917-867e-5b2a51f2e33b.jpg)
+![XenVn-All-In-One-Tools-for-Xenforo-2](https://github.com/xenvn/xenvn-addon/assets/112816533/7d211bef-e84c-493a-a05a-4b4a07255aab)
+![XenVn-Addon-for-Xenforo-2](https://github.com/xenvn/xenvn-addon/assets/112816533/8cf5b2c7-120d-4aaa-bb79-e67a59a8012a)
