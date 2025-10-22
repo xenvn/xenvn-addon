@@ -10,7 +10,7 @@ Cheapest price ($15) - 1 Years update - Free support - Free setup - Free bug fix
 XenVn add-on is developed based on the original Xenforo platform, so it is highly compatible, easy to use and develop.
 Compatible with XenForo version 2.2+ and PHP version 7+, 8+.
 
+**See details at:**
 https://xenvn.com/threads/xenvn-all-in-one-tools-for-xenforo-2.516/
 
-![XenVn-All-In-One-Tools-for-Xenforo-2](https://github.com/xenvn/xenvn-addon/assets/112816533/7d211bef-e84c-493a-a05a-4b4a07255aab)
-![XenVn-Addon-for-Xenforo-2](https://github.com/xenvn/xenvn-addon/assets/112816533/8cf5b2c7-120d-4aaa-bb79-e67a59a8012a)
+![XenVn-All-In-One-Tools-for-Xenforo-2](https://github.com/user-attachments/assets/f2417e66-c33b-45b9-9389-da3ab7196f4a)
